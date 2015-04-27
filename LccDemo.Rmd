@@ -372,7 +372,7 @@ __Classification__
 ![](assets/RaceSort.10.png)
 </div>
 
-
+<!---
 ## Sorting People #11
 <div class="columns-2">
 __Classification__
@@ -701,7 +701,7 @@ __Classification__
 
 ![](assets/RaceSort.20.png)
 </div>
-
+-->
 
 # Results & Discussion
 
@@ -806,3 +806,6 @@ __2. What is the Person's race? Mark <font color="red">one <i>or more</i> </font
 - Physical appearance may reveal very little about someone's ancestry or self-identity.
 
 - Race must be recognized as a complex concept, with socio-cultural, historical, and biological components.
+
+
+# Thank you :-)
