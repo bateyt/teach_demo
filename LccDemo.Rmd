@@ -5,33 +5,39 @@ date: ''
 output:
   ioslides_presentation:
     logo: assets/CroMagnon2Female.png
-    smaller: yes
+    smaller: no
     widescreen: yes
 subtitle: Scratching the Surface
 ---
 
-## Before We Begin...Test Poll {.vcenter}
+# Before We Begin...a Test Poll
+## {.vcenter}
 
 <div class="centered">
 <script src="https://www.polleverywhere.com/polls/UG1I45JB9dsSUyF/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
 </div>
 
 
-## Poll #1 {.vcenter}
 
+# Poll #1 | Text answer code to 22333 within 30 seconds.
+
+## {.vcenter}
 <div class="centered">
 <script src="https://www.polleverywhere.com/polls/AIUc2VdL0095AP9/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
 </div>
 
 
 
-## Poll #2 {.vcenter}
+# Poll #2 | Text answer code to 22333 within 30 seconds.
 
+## {.vcenter}
 <div class="centered">
 <script src="https://www.polleverywhere.com/polls/aeEMr737lnvbhlJ/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
 </div>
 
 
+# Sorting People by Physical Appearance
+
 ## Sorting People #1
 
 <div class="columns-2">
@@ -66,9 +72,6 @@ __Classification__
 
 ![](assets/RaceSort.1.png)
 </div>
-
-
-
 
 
 ## Sorting People #2
@@ -106,9 +109,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #3
-
 <div class="columns-2">
 __Classification__
 
@@ -125,7 +126,6 @@ __Classification__
 </div>
 
 ## Sorting People #3
-
 <div class="columns-2">
 __Classification__
 
@@ -142,9 +142,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #4
-
 <div class="columns-2">
 __Classification__
 
@@ -161,7 +159,6 @@ __Classification__
 </div>
 
 ## Sorting People #4
-
 <div class="columns-2">
 __Classification__
 
@@ -179,7 +176,6 @@ __Classification__
 
 
 ## Sorting People #5
-
 <div class="columns-2">
 __Classification__
 
@@ -196,7 +192,6 @@ __Classification__
 </div>
 
 ## Sorting People #5
-
 <div class="columns-2">
 __Classification__
 
@@ -213,9 +208,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #6
-
 <div class="columns-2">
 __Classification__
 
@@ -232,7 +225,6 @@ __Classification__
 </div>
 
 ## Sorting People #6
-
 <div class="columns-2">
 __Classification__
 
@@ -248,10 +240,7 @@ __Classification__
 ![](assets/RaceSort.6.png)
 </div>
 
-
-
 ## Sorting People #7
-
 <div class="columns-2">
 __Classification__
 
@@ -268,7 +257,6 @@ __Classification__
 </div>
 
 ## Sorting People #7
-
 <div class="columns-2">
 __Classification__
 
@@ -287,7 +275,6 @@ __Classification__
 
 
 ## Sorting People #8
-
 <div class="columns-2">
 __Classification__
 
@@ -304,7 +291,6 @@ __Classification__
 </div>
 
 ## Sorting People #8
-
 <div class="columns-2">
 __Classification__
 
@@ -321,9 +307,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #9
-
 <div class="columns-2">
 __Classification__
 
@@ -340,7 +324,6 @@ __Classification__
 </div>
 
 ## Sorting People #9
-
 <div class="columns-2">
 __Classification__
 
@@ -357,9 +340,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #10
-
 <div class="columns-2">
 __Classification__
 
@@ -376,7 +357,6 @@ __Classification__
 </div>
 
 ## Sorting People #10
-
 <div class="columns-2">
 __Classification__
 
@@ -393,9 +373,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #11
-
 <div class="columns-2">
 __Classification__
 
@@ -412,7 +390,6 @@ __Classification__
 </div>
 
 ## Sorting People #11
-
 <div class="columns-2">
 __Classification__
 
@@ -429,10 +406,7 @@ __Classification__
 </div>
 
 
-
-
 ## Sorting People #12
-
 <div class="columns-2">
 __Classification__
 
@@ -449,7 +423,6 @@ __Classification__
 </div>
 
 ## Sorting People #12
-
 <div class="columns-2">
 __Classification__
 
@@ -466,9 +439,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #13
-
 <div class="columns-2">
 __Classification__
 
@@ -485,7 +456,6 @@ __Classification__
 </div>
 
 ## Sorting People #13
-
 <div class="columns-2">
 __Classification__
 
@@ -503,7 +473,6 @@ __Classification__
 
 
 ## Sorting People #14
-
 <div class="columns-2">
 __Classification__
 
@@ -520,7 +489,6 @@ __Classification__
 </div>
 
 ## Sorting People #14
-
 <div class="columns-2">
 __Classification__
 
@@ -537,9 +505,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #15
-
 <div class="columns-2">
 __Classification__
 
@@ -556,7 +522,6 @@ __Classification__
 </div>
 
 ## Sorting People #15
-
 <div class="columns-2">
 __Classification__
 
@@ -573,9 +538,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #16
-
 <div class="columns-2">
 __Classification__
 
@@ -592,7 +555,6 @@ __Classification__
 </div>
 
 ## Sorting People #16
-
 <div class="columns-2">
 __Classification__
 
@@ -607,11 +569,9 @@ __Classification__
 
 ![](assets/RaceSort.16.png)
 </div>
-
 
 
 ## Sorting People #17
-
 <div class="columns-2">
 __Classification__
 
@@ -628,7 +588,6 @@ __Classification__
 </div>
 
 ## Sorting People #17
-
 <div class="columns-2">
 __Classification__
 
@@ -645,9 +604,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #18
-
 <div class="columns-2">
 __Classification__
 
@@ -664,7 +621,6 @@ __Classification__
 </div>
 
 ## Sorting People #18
-
 <div class="columns-2">
 __Classification__
 
@@ -681,9 +637,7 @@ __Classification__
 </div>
 
 
-
 ## Sorting People #19
-
 <div class="columns-2">
 __Classification__
 
@@ -700,7 +654,6 @@ __Classification__
 </div>
 
 ## Sorting People #19
-
 <div class="columns-2">
 __Classification__
 
@@ -715,11 +668,9 @@ __Classification__
 
 ![](assets/RaceSort.19.png)
 </div>
-
 
 
 ## Sorting People #20
-
 <div class="columns-2">
 __Classification__
 
@@ -736,7 +687,6 @@ __Classification__
 </div>
 
 ## Sorting People #20
-
 <div class="columns-2">
 __Classification__
 
@@ -753,58 +703,49 @@ __Classification__
 </div>
 
 
+# Results & Discussion
 
-
-
-
-## Classification Results {.build .normal}
-
+##  {.build}
 ![](assets/RaceSortCorrectClassify_2.png)
 
 <br>
 
-Now...
+> 1. Calculate your percent correct/incorrect classification. __(1 minute)__
+> 2. Share with your group. __(1 minute)__
+> 3. With group, come up with at least two reasongs why *your* classification may not have matched a respondent's *self-classification*? __(2 minutes)__
+> 4. Class share/discussion __(5 minutes)__
 
-1. Calculate your percent correct/incorrect classification. __(1 minute)__
-2. Share with your group. __(1 minute)__
-3. With group, come up with at least two reasongs why *your* classification may not have matched a respondent's *self-classification*? __(2 minutes)__
-4. Class share/discussion __(5 minutes)__
-
-
+<!---
 ## The Human Spectrum (of Skin Color) | Where do you draw the line?
-
 <div class="centered">
 ![](assets/SkinReflectance1.2.png)
 </div>
 
 
 ## The Human Spectrum (of Skin Color) | Where do you draw the line?
-
 <div class="centered">
 ![](assets/SkinReflectance2.png)
 </div>
 
 
-
 ## Geographic Distribution of Skin Color {.flexbox .vcenter}
-
 <div class="centered">
 ![](assets/SkinColorMap.png)
 </div>
+-->
 
-
-
-## Sorting People
+<!---
+# Sorting People
 
 ![](assets/RaceSortConclusion.png)
 
 
-## How race has changed...the US Census
+# How race has changed...the US Census
 
 ![](assets/RaceSortCensusClassification.png)
 
 
-## How Race Has Changed:  The US Census | 1870 Census
+# How Race Has Changed:  The US Census | 1870 Census
 
 __Color__
 
@@ -815,7 +756,7 @@ __Color__
 - Indian
 
 
-## How Race Has Changed:  The US Census | 1950 Census
+# How Race Has Changed:  The US Census | 1950 Census
 
 __Race__
 
@@ -828,7 +769,7 @@ __Race__
 - Other race
 
 
-## How Race Has Changed:  The US Census | 2000 Census
+# How Race Has Changed:  The US Census | 2000 Census
 
 __1. Is person Spanish/Hispanic/Latino (HL)?__
 
@@ -855,11 +796,13 @@ __2. What is the Person's race? Mark <font color="red">one <i>or more</i> </font
 - Other Pacific Island (print race)
 - Other Asian (print race)
 - Some other race (print race)
-
 </div>
+-->
 
-## Conclusions & More Questions
+## Final Thoughts & Questions
 
 - Classifying people is a highly subjective process.
 
 - Physical appearance may reveal very little about someone's ancestry or self-identity.
+
+- Race must be recognized as a complex concept, with socio-cultural, historical, and biological components.
