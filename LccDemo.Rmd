@@ -691,15 +691,11 @@ __Classification__
 ##  {.build}
 ![](assets/RaceSortCorrectClassify_2.png)
 
-<br>
 
 > 1. Calculate your percent correct/incorrect classification. __(1 minute)__
-
 > 2. Share with your group. __(1 minute)__
-
-> 3. With group, come up with at least two reasons why *your* classification may not have matched a respondent's *self-classification*? __(2 minutes)__
-
-> 4. Polls and discussion __(5 minutes)__
+> 3. With group, come up with at least two reasons why *your* classification may not have matched a respondent's *self-classification*? __(2-3 minutes)__
+> 4. Polls and discussion __
 
 <!---
 ## The Human Spectrum (of Skin Color) | Where do you draw the line?
@@ -810,6 +806,12 @@ __2. What is the Person's race? Mark <font color="red">one <i>or more</i> </font
 - Physical appearance may reveal very little about someone's ancestry or self-identity.
 
 - Race must be recognized as a complex concept, with socio-cultural, historical, and biological components.
+
+
+## {.vcenter}
+<div class="centered">
+<script src="https://www.polleverywhere.com/polls/omeXT2PpwrO2hZx/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
+</div>
 
 
 # Thank you :-)
