@@ -688,14 +688,15 @@ __Classification__
 
 # Results & Discussion
 
-##  {.build}
+## Racial Classification: Simple or Not So Much?
+
 ![](assets/RaceSortCorrectClassify_2.png)
 
 
 > 1. Calculate your percent correct/incorrect classification. __(1 minute)__
-> 2. Share with your group. __(1 minute)__
+> 2. Share with your group. __(2 minutes)__
 > 3. With group, come up with at least two reasons why *your* classification may not have matched a respondent's *self-classification*? __(2-3 minutes)__
-> 4. Polls and discussion __
+> 4. Polls and discussion
 
 <!---
 ## The Human Spectrum (of Skin Color) | Where do you draw the line?
@@ -812,6 +813,13 @@ __2. What is the Person's race? Mark <font color="red">one <i>or more</i> </font
 <div class="centered">
 <script src="https://www.polleverywhere.com/polls/omeXT2PpwrO2hZx/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
 </div>
+
+
+## More resources...
+
+- [RACE: Are We So Different?](http://www.understandingrace.org/home.html)---A project of the American Anthropological Association
+
+- [RACE: The Power of an Illusion](http://www.pbs.org/race/000_General/000_00-Home.htm)--More interactive activities, including "sorting" people.
 
 
 # Thank you :-)
