@@ -10,13 +10,22 @@ output:
 subtitle: Scratching the Surface
 ---
 
-# Before We Begin...a Test Poll | Text your answer code to 22333.
-## {.vcenter}
+# Before we begin, what do you think, now?
 
+## {.vcenter}
 <div class="centered">
-<script src="https://www.polleverywhere.com/polls/UG1I45JB9dsSUyF/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/AIUc2VdL0095AP9?controls=none&amp;short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
 </div>
 
+## {.vcenter}
+<div class="centered">
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/aeEMr737lnvbhlJ?controls=none&amp;short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
+</div>
+
+## {.vcenter}
+<div class="centered">
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/E1AhaOfUePmfMNa?controls=none&amp;short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
+</div>
 
 
 # Sorting People by Physical Appearance
@@ -784,22 +793,6 @@ __2. What is the Person's race? Mark <font color="red">one <i>or more</i> </font
 -->
 
 
-# Poll #1 | Text your answer code to 22333.
-
-## {.vcenter}
-<div class="centered">
-<script src="https://www.polleverywhere.com/polls/AIUc2VdL0095AP9/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
-</div>
-
-
-
-# Poll #2 | Text your answer code to 22333.
-
-## {.vcenter}
-<div class="centered">
-<script src="https://www.polleverywhere.com/polls/aeEMr737lnvbhlJ/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
-</div>
-
 
 ## Final Thoughts & Questions
 
@@ -810,9 +803,11 @@ __2. What is the Person's race? Mark <font color="red">one <i>or more</i> </font
 - Race must be recognized as a complex concept, with socio-cultural, historical, and biological components.
 
 
+# A final exit poll...
+
 ## {.vcenter}
 <div class="centered">
-<script src="https://www.polleverywhere.com/polls/omeXT2PpwrO2hZx/chart_widget.js?height=500&results_count_format=percent&width=950"></script>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/omeXT2PpwrO2hZx?controls=none&amp;short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
 </div>
 
 
