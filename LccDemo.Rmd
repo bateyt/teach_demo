@@ -270,7 +270,7 @@ __Classification__
 <br>
 <br>
 
-![](assets/RaceSort.8.png)
+![](assets/RaceSort.18.png)
 </div>
 
 ## Sorting People #8
@@ -278,15 +278,15 @@ __Classification__
 __Classification__
 
 - American Indian (AI)
-- <font color="red"><b>Asian (A)</b></font>
+- Asian (A)
 - Black (B)
 - Hispanic/Latino (HL)
-- White (W)
+- <font color="red"><b>White (W)</b></font>
 
 <br>
 <br>
 
-![](assets/RaceSort.8.png)
+![](assets/RaceSort.18.png)
 </div>
 
 
@@ -323,7 +323,7 @@ __Classification__
 </div>
 
 
-## Sorting People #10
+<!---## Sorting People #10
 <div class="columns-2">
 __Classification__
 
@@ -339,7 +339,7 @@ __Classification__
 ![](assets/RaceSort.10.png)
 </div>
 
-## Sorting People #10
+<!---## Sorting People #10
 <div class="columns-2">
 __Classification__
 
@@ -354,9 +354,10 @@ __Classification__
 
 ![](assets/RaceSort.10.png)
 </div>
+-->
 
-<!---
-## Sorting People #11
+
+## Sorting People #10
 <div class="columns-2">
 __Classification__
 
@@ -372,7 +373,7 @@ __Classification__
 ![](assets/RaceSort.11.png)
 </div>
 
-## Sorting People #11
+## Sorting People #10
 <div class="columns-2">
 __Classification__
 
@@ -389,7 +390,7 @@ __Classification__
 </div>
 
 
-## Sorting People #12
+<!---## Sorting People #12
 <div class="columns-2">
 __Classification__
 
