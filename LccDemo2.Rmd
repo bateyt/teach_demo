@@ -1,0 +1,822 @@
+---
+title: "Human Variation and Race"
+author: ''
+date: ''
+output:
+  ioslides_presentation:
+    logo: assets/CroMagnon2Female.png
+    smaller: no
+    widescreen: yes
+subtitle: Scratching the Surface
+---
+
+# Before we begin, what do you think, now?
+
+## {.vcenter}
+<div class="centered">
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/AIUc2VdL0095AP9?controls=none&amp;short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
+</div>
+
+## {.vcenter}
+<div class="centered">
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/aeEMr737lnvbhlJ?controls=none&amp;short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
+</div>
+
+## {.vcenter}
+<div class="centered">
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/E1AhaOfUePmfMNa?controls=none&amp;short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
+</div>
+
+
+# Sorting People by Physical Appearance
+
+<!----## Sorting People #1
+
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.1.png)
+</div>
+
+
+## Sorting People #1
+
+<div class="columns-2">
+__Classification__
+
+- <font color="red"><b>American Indian (AI)</b></font>
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.1.png)
+</div>
+
+
+## Sorting People #2
+
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.2.png)
+</div>
+
+## Sorting People #2
+
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- <font color="red"><b>Hispanic/Latino (HL)</b></font>
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.2.png)
+</div>
+
+
+## Sorting People #3
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.3.png)
+</div>
+
+## Sorting People #3
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- <font color="red"><b>Black (B)</b></font>
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.3.png)
+</div>
+
+
+## Sorting People #4
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.4.png)
+</div>
+
+## Sorting People #4
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- <font color="red"><b>Black (B)</b></font>
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.4.png)
+</div>
+
+
+## Sorting People #5
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.5.png)
+</div>
+
+## Sorting People #5
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- <font color="red"><b>Asian (A)</b></font>
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.5.png)
+</div>
+
+
+## Sorting People #6
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.6.png)
+</div>
+
+## Sorting People #6
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- <font color="red"><b>Hispanic/Latino (HL)</b></font>
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.6.png)
+</div>
+
+## Sorting People #7
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.7.png)
+</div>
+
+## Sorting People #7
+<div class="columns-2">
+__Classification__
+
+- <font color="red"><b>American Indian (AI)</b></font>
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.7.png)
+</div>
+
+
+
+## Sorting People #8
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.18.png)
+</div>
+
+## Sorting People #8
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- <font color="red"><b>White (W)</b></font>
+
+<br>
+<br>
+
+![](assets/RaceSort.18.png)
+</div>
+
+
+## Sorting People #9
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.9.png)
+</div>
+
+## Sorting People #9
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- <font color="red"><b>Black (B)</b></font>
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.9.png)
+</div>
+-->
+
+## Sorting People #1
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.10.png)
+</div>
+
+## Sorting People #1
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- <font color="red"><b>Hispanic/Latino (HL)</b></font>
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.10.png)
+</div>
+
+
+
+<!---## Sorting People #10
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.11.png)
+</div>
+
+## Sorting People #10
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- <font color="red"><b>White (W)</b></font>
+
+<br>
+<br>
+
+![](assets/RaceSort.11.png)
+</div>
+-->
+
+
+## Sorting People #2
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.12.png)
+</div>
+
+## Sorting People #2
+<div class="columns-2">
+__Classification__
+
+- <font color="red"><b>American Indian (AI)</b></font>
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.12.png)
+</div>
+
+
+## Sorting People #3
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.13.png)
+</div>
+
+## Sorting People #3
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- <font color="red"><b>Black (B)</b></font>
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.13.png)
+</div>
+
+
+## Sorting People #4
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.4.png)
+</div>
+
+## Sorting People #4
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- <font color="red"><b>Black (B)</b></font>
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.4.png)
+</div>
+
+
+## Sorting People #5
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.15.png)
+</div>
+
+## Sorting People #5
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- <font color="red"><b>Asian (A)</b></font>
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.15.png)
+</div>
+
+
+## Sorting People #6
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.16.png)
+</div>
+
+## Sorting People #6
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- <font color="red"><b>Asian (A)</b></font>
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.16.png)
+</div>
+
+
+## Sorting People #7
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.17.png)
+</div>
+
+## Sorting People #7
+<div class="columns-2">
+__Classification__
+
+- <font color="red"><b>American Indian (AI)</b></font>
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.17.png)
+</div>
+
+
+## Sorting People #8
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.18.png)
+</div>
+
+## Sorting People #8
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- <font color="red"><b>White (W)</b></font>
+
+<br>
+<br>
+
+![](assets/RaceSort.18.png)
+</div>
+
+
+## Sorting People #9
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.19.png)
+</div>
+
+## Sorting People #9
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- <font color="red"><b>White (W)</b></font>
+
+<br>
+<br>
+
+![](assets/RaceSort.19.png)
+</div>
+
+
+## Sorting People #10
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- Hispanic/Latino (HL)
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.20.png)
+</div>
+
+## Sorting People #10
+<div class="columns-2">
+__Classification__
+
+- American Indian (AI)
+- Asian (A)
+- Black (B)
+- <font color="red"><b>Hispanic/Latino (HL)</b></font>
+- White (W)
+
+<br>
+<br>
+
+![](assets/RaceSort.20.png)
+</div>
+
+
+# Results & Discussion
+
+## Racial Classification: Simple or Not So Much?
+
+![](assets/RaceSortCorrectClassify_2.png)
+
+
+> 1. Calculate your percent correct/incorrect classification. __(1 minute)__
+> 2. Share with your group. __(2 minutes)__
+> 3. With group, come up with at least two reasons why *your* classification may not have matched a respondent's *self-classification*? __(2-3 minutes)__
+> 4. Polls and discussion
+
+<!---
+## The Human Spectrum (of Skin Color) | Where do you draw the line?
+<div class="centered">
+![](assets/SkinReflectance1.2.png)
+</div>
+
+
+## The Human Spectrum (of Skin Color) | Where do you draw the line?
+<div class="centered">
+![](assets/SkinReflectance2.png)
+</div>
+
+
+## Geographic Distribution of Skin Color {.flexbox .vcenter}
+<div class="centered">
+![](assets/SkinColorMap.png)
+</div>
+-->
+
+<!---
+# Sorting People
+
+![](assets/RaceSortConclusion.png)
+
+
+# How race has changed...the US Census
+
+![](assets/RaceSortCensusClassification.png)
+
+
+# How Race Has Changed:  The US Census | 1870 Census
+
+__Color__
+
+- White
+- Black
+- Mulatto
+- Chinese
+- Indian
+
+
+# How Race Has Changed:  The US Census | 1950 Census
+
+__Race__
+
+- White
+- <font color="red">Negro</font>
+- American Indian
+- <font color="red">Japanese</font>
+- Chinese
+- Filipino
+- Other race
+
+
+# How Race Has Changed:  The US Census | 2000 Census
+
+__1. Is person Spanish/Hispanic/Latino (HL)?__
+
+__2. What is the Person's race? Mark <font color="red">one <i>or more</i> </font> races.__
+
+<div class="columns-2">
+
+- White
+- Black, African Am, or Negro
+- American Indian or Alaskan Native (print name of enrolled tribe)
+- Asian Indian
+- Chinese
+- Filipino
+- Japanese
+
+<br>
+<br>
+
+- Korean
+- Vietnamese
+- Native Hawaiian
+- Guamanian or Chamorro
+- Samoan
+- Other Pacific Island (print race)
+- Other Asian (print race)
+- Some other race (print race)
+</div>
+-->
+
+
+
+## Final Thoughts & Questions
+
+- Classifying people is a highly subjective process.
+
+- Physical appearance may reveal very little about someone's ancestry or self-identity.
+
+- Race must be recognized as a complex concept, with socio-cultural, historical, and biological components.
+
+
+# A final exit poll...
+
+## {.vcenter}
+<div class="centered">
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/omeXT2PpwrO2hZx?controls=none&amp;short_poll=true" width="100%" height="100%" frameBorder="0"></iframe>
+</div>
+
+
+## More resources...
+
+- [RACE: Are We So Different?](http://www.understandingrace.org/home.html)---A project of the American Anthropological Association
+
+- [RACE: The Power of an Illusion](http://www.pbs.org/race/000_General/000_00-Home.htm)--More interactive activities, including "sorting" people.
+
+
+# Thank you :-)

@@ -1,0 +1,5 @@
+.libPaths("/home/trey/R/library")
+Sys.setenv("R_LIBS" = "~/R/library")
+Sys.setenv("R_LIBS_USER" = "~/R/library")
+Sys.setenv("R_LIBS_SITE" = "~/R/library")
+lapply(c("tidyverse", "googlesheets", "ggvis", "ggmap", "scales", "sp", "rgdal", "raster", "rnaturalearth", "rnaturalearthdata", "rnaturalearthhires", "jpeg", "png", "demogR", "popbio", "R2OpenBUGS", "ggthemes", "RColorBrewer", "dismo", "rgeos", "gridExtra", "rasterVis", "rasterImage", "blogdown", "bookdown", "forcats"), require, character.only = TRUE)
